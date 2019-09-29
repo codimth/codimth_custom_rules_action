@@ -1,0 +1,7 @@
+name: Codimth Custom Rules Action
+description: Create a custom rules Action
+package: CodimTh
+type: module
+core: 8.x
+dependencies:
+  - rules
